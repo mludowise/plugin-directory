@@ -2585,5 +2585,14 @@
     "owner": "De-La-Vega",
     "name": "BootstrapGrid",
     "lastUpdated": "2017-04-17 13:13:01 UTC"
+  },
+  {
+    "owner": "mludowise",
+    "name": "sketch-plugin-manager",
+    "lastUpdated": "2017-05-02T17:35:03.000Z",
+    "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
+    "description": "Keeping your Sketch plugins up to date.",
+    "title": "🔌 Sketch Plugin Manager",
+    "author": "Mel Ludowise"
   }
 ]
